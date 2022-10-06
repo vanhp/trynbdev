@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "trynbdev",
+    "section": "",
+    "text": "Check out nbdev tool for literate programming. It suppose to include document with the source code and keep them in-sync.\nWhere most coders write comment about their code but later when the code was refactor but the comment never modified."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "trynbdev",
+    "section": "Install",
+    "text": "Install\npip install trynbdev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "trynbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello (\"vanh\")\n\n'Hello vanh!'\n\n\n\nassert say_hello(\"Hamel\")==\"Hello Hamel!\"\n\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))"
+  }
+]
